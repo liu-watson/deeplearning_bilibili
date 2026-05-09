@@ -1,81 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfefdbb7-286e-440d-bd22-17f70a270fdc" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/01.张量的基本创建方式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/02.创建线形和随机张量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/03.创建全0_1_指定值张量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/04.创建指定类型的张量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/01.张量和numpy之间相互转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/02.张量的基本运算.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/03.张量的点乘和矩阵乘法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/04.张量的常用运算函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/05.张量的索引操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/06.张量的形状操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/07.张量的拼接.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/08.自动微分模块入门案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/09.自动微分模块案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/01.自动微分_detach()函数介绍.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/02.自动微分真实应用场景.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/03.pyTorch框架_模拟线性回归.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/04.激活函数_Sigmoid图解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/05.激活函数_Tanh图解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/06.激活函数_ReLU图解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/07.激活函数_SoftMax图解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/01.参数初始化介绍.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/02.神经网络搭建.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/03.多分类任务交叉熵损失函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/04.二分类任务损失函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/05.回归任务_损失函数介绍.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/01.演示指数移动加权平均.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/02.梯度下降优化方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/03.演示学习率对梯度的影响.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/04.演示学习率衰减策略.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/05.dropout随机失活.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/06.批量归一化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/07.ANN案例_手机价格分类案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/data/手机价格预测.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/01.ANN案例_手机价格分类案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/03.绘制图像.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/04.卷积层API介绍.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/05.池化层API介绍.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/data/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/data/img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/data/手机价格预测.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/model/phone.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/01.CNN案例_图像分类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/02.词嵌入层演示.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/data/cifar-10-batches-py/batches.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/data/cifar-10-batches-py/data_batch_1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/data/cifar-10-batches-py/data_batch_2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/data/cifar-10-batches-py/data_batch_3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/data/cifar-10-batches-py/data_batch_4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/data/cifar-10-batches-py/data_batch_5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/data/cifar-10-batches-py/readme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/data/cifar-10-batches-py/test_batch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/model/image_model.pth" afterDir="false" />
+    <list default="true" id="02bfb9e0-5abd-43b0-a8c2-9e17b9574cb0" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DeepLearning_Bilibili.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/03.RNN简介.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/04.RNN案例_AI歌词生成器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/data/jaychou_lyrics.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -85,9 +28,10 @@
     <urls />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
 }</component>
-  <component name="ProjectId" id="3BVlVPVAGP07aKPoYtpgxbICEjv" />
+  <component name="ProjectId" id="3DLumd8wIKHrXBzlIRHxBdwLK2v" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -95,107 +39,29 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.01.ANN案例_手机价格分类案例.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.CNN案例_图像分类.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.参数初始化介绍.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.张量和numpy之间相互转换.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.张量的基本创建方式.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.演示指数移动加权平均.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.自动微分_detach()函数介绍.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02.创建线形和随机张量.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02.张量的基本运算.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02.梯度下降优化方法.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02.神经网络搭建.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02.自动微分真实应用场景.executor&quot;: &quot;Run&quot;,
     &quot;Python.02.词嵌入层演示.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03.pyTorch框架_模拟线性回归.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03.创建全0_1_指定值张量.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03.多分类任务交叉熵损失函数.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03.张量的点乘和矩阵乘法.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03.演示学习率对梯度的影响.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03.绘制图像.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04.ceshi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04.二分类任务损失函数.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04.创建指定类型的张量.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04.卷积层API介绍.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04.张量的常用运算函数.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04.演示学习率衰减策略.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04.激活函数_Sigmoid图解.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04.激活函数_sigmoid图解.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05.dropout随机失活.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05.回归任务_损失函数介绍.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05.张量的索引操作.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05.池化层API介绍.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05.激活函数_Tanh图解.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06.张量的形状操作.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06.批量归一化.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06.激活函数_ReLU图解.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07.ANN案例_手机价格分类案例.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07.张量的拼接.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07.激活函数_SoftMax图解.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08.自动微分模块入门案例.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09.自动微分模块案例.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.RNN简介.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.RNN案例_AI歌词生成器.executor&quot;: &quot;Run&quot;,
     &quot;Python.demo.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/watson/bili_vedio/PythonProject/day07/data&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/watson/bili_vedio/DeepLearning_Bilibili&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;通义灵码&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.28818738&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day07/data" />
-      <recent name="$PROJECT_DIR$/day06/data" />
-      <recent name="$PROJECT_DIR$/day06" />
-      <recent name="$PROJECT_DIR$/day05" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day06" />
-      <recent name="$PROJECT_DIR$/day05/data" />
-      <recent name="$PROJECT_DIR$/day01" />
-      <recent name="$PROJECT_DIR$/" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.02.词嵌入层演示">
-    <configuration name="01.CNN案例_图像分类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/01.CNN案例_图像分类.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.03.RNN简介">
     <configuration name="02.词嵌入层演示" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
+      <module name="DeepLearning_Bilibili" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,8 +85,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03.绘制图像" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
+    <configuration name="03.RNN简介" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepLearning_Bilibili" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,14 +94,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/03.绘制图像.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/03.RNN简介.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,8 +110,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04.卷积层API介绍" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
+    <configuration name="04.RNN案例_AI歌词生成器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepLearning_Bilibili" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,14 +119,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/04.卷积层API介绍.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/04.RNN案例_AI歌词生成器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,8 +135,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05.池化层API介绍" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepLearning_Bilibili" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,14 +144,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/05.池化层API介绍.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day07/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,11 +162,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03.RNN简介" />
+        <item itemvalue="Python.demo" />
         <item itemvalue="Python.02.词嵌入层演示" />
-        <item itemvalue="Python.01.CNN案例_图像分类" />
-        <item itemvalue="Python.05.池化层API介绍" />
-        <item itemvalue="Python.04.卷积层API介绍" />
-        <item itemvalue="Python.03.绘制图像" />
+        <item itemvalue="Python.04.RNN案例_AI歌词生成器" />
       </list>
     </recent_temporary>
   </component>
@@ -313,54 +178,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="bfefdbb7-286e-440d-bd22-17f70a270fdc" name="更改" comment="" />
-      <created>1774582141257</created>
+      <changelist id="02bfb9e0-5abd-43b0-a8c2-9e17b9574cb0" name="更改" comment="" />
+      <created>1778073831288</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1774582141257</updated>
-      <workItem from="1776645807385" duration="714000" />
-      <workItem from="1776646541482" duration="78000" />
-      <workItem from="1776646637746" duration="787000" />
-      <workItem from="1776647447254" duration="2383000" />
-      <workItem from="1776649915449" duration="247000" />
-      <workItem from="1776650191335" duration="561000" />
-      <workItem from="1776653595226" duration="32701000" />
-      <workItem from="1776908118152" duration="46816000" />
-      <workItem from="1777448100098" duration="60781000" />
-      <workItem from="1777989466012" duration="4335000" />
+      <updated>1778073831288</updated>
+      <workItem from="1778073833050" duration="9738000" />
+      <workItem from="1778157460103" duration="75000" />
+      <workItem from="1778157545576" duration="151000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/day05/02.梯度下降优化方法.py</url>
-          <line>89</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/day06/03.绘制图像.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject$03_.coverage" NAME="03.绘制图像 覆盖结果" MODIFIED="1777259753664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
-    <SUITE FILE_PATH="coverage/PythonProject$07_ANN_.coverage" NAME="07.ANN案例_手机价格分类案例 覆盖结果" MODIFIED="1776954167621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
-    <SUITE FILE_PATH="coverage/PythonProject$04_.coverage" NAME="04.演示学习率衰减策略 覆盖结果" MODIFIED="1776761314338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
-    <SUITE FILE_PATH="coverage/PythonProject$06_.coverage" NAME="06.批量归一化 覆盖结果" MODIFIED="1776947694463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
-    <SUITE FILE_PATH="coverage/PythonProject$01_ANN_.coverage" NAME="01.ANN案例_手机价格分类案例 覆盖结果" MODIFIED="1777110860433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
-    <SUITE FILE_PATH="coverage/PythonProject$05_dropout.coverage" NAME="05.dropout随机失活 覆盖结果" MODIFIED="1776864332053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
-    <SUITE FILE_PATH="coverage/PythonProject$demo.coverage" NAME="demo 覆盖结果" MODIFIED="1776761932789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
-    <SUITE FILE_PATH="coverage/PythonProject$04_API.coverage" NAME="04.卷积层API介绍 覆盖结果" MODIFIED="1777626473473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
-    <SUITE FILE_PATH="coverage/PythonProject$01_CNN_.coverage" NAME="01.CNN案例_图像分类 覆盖结果" MODIFIED="1777988509355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
-    <SUITE FILE_PATH="coverage/PythonProject$05_API.coverage" NAME="05.池化层API介绍 覆盖结果" MODIFIED="1777640772511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
-    <SUITE FILE_PATH="coverage/PythonProject$02_.coverage" NAME="02.词嵌入层演示 覆盖结果" MODIFIED="1777991923068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
+    <SUITE FILE_PATH="coverage/DeepLearning_Bilibili$03_RNN.coverage" NAME="03.RNN简介 覆盖结果" MODIFIED="1778157417920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
+    <SUITE FILE_PATH="coverage/DeepLearning_Bilibili$demo.coverage" NAME="demo 覆盖结果" MODIFIED="1778077874074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
+    <SUITE FILE_PATH="coverage/DeepLearning_Bilibili$04_RNN_AI.coverage" NAME="04.RNN案例_AI歌词生成器 覆盖结果" MODIFIED="1778074706020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
+    <SUITE FILE_PATH="coverage/DeepLearning_Bilibili$02_.coverage" NAME="02.词嵌入层演示 覆盖结果" MODIFIED="1778075336589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07" />
   </component>
 </project>
