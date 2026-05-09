@@ -225,9 +225,10 @@ def evaluate(start_word, sentence_len):
 
     # 5.将输入的开始词转换成索引
     word_idx = word_to_index[start_word]
+    print(f"开始词：{start_word}，索引：{word_idx}")
 
     # 6.定义列表，存放：产生的词的索引
-    generate_sentence = [word_idx]  # 开始词的索引，是列表的：
+    generate_sentence = [word_idx]  # 开始词的索引，是列表的第1个词
 
     # 7.遍历句子长度，获取到每一个词
     for i in range(sentence_len):
@@ -246,7 +247,6 @@ def evaluate(start_word, sentence_len):
 
 # 6.测试
 if __name__ == '__main__':
-    build_vocab()
     # 1.获取数据，进行分词，获取词表
     # unique_words, word_to_index, word_count, corpus_idx = build_vocab()
     # print(f"词的数量：{word_count}")                 # 去重后，5703个词
@@ -274,4 +274,4 @@ if __name__ == '__main__':
     # train()
 
     # 5.测试模型
-    evaluate('你', 50)
+    evaluate('星星', 50)
